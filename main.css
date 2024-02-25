@@ -1,0 +1,28 @@
+@charset "utf-8"; 
+
+@font-face {
+}
+/* 
+Author: Aldo Cabrera
+Date: 02/23/2024
+*/
+
+/* HTML and Body Styles */
+html{
+    background-color: black;
+}
+body{
+    color:white;  
+}
+
+/* Heading Style */
+h1 {
+    color:cornflowerblue;
+}
+h2 {
+    color: darkorange;
+}
+
+/* Navigation Styles */	
+
+/* Footer Styles */
